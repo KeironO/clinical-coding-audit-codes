@@ -74,9 +74,19 @@ Coding Errors are self descriptive.
 ### Misc
 
 - **CLIFA:** Issue with the auto coder at the time of automated coding.
+
+> **Example:** A code might be missing due to a runtime error.
+
 - **DWARE:** Issues with the data warehouse at the time of automated coding.
+
+> **Example:** A code might be missing due to a data warehouse upload issue.
+
 - **CONSU:**: Consultant has requested specific coding.
+
+
 - **SNOMM:** Terminology missing from SNOMED-CT.
+
+> **Example:** Terminology couldn't be mapped due to the term being excluded from SNOMED-CT.
 
 
 ## License
