@@ -1,38 +1,25 @@
-# clinical-coding-audit-codes
+# Free and Open Source Audit Codes for Clinical Coding
 
-Free and Open Source Audit Codes for Clinical Coding.
-
-Sister project of CLIVSECO.
+A bunch of free and open source audit codes for use in auditing both manual and automated clinical coding. Sister project to CLIVSECO.
 
 
 ## Terminology
 
-
 ### Documentation Issues
 
-#### Primary Diagnosis
+- PD - Primary Diagnosis
+- SD - Secondary Diagnosis
+- PP - Primary Procedure
+- SP - Secondary Procedure
 
-- **PDNAV:** Documentation required for accurate coding was not available at the time of coding.
-- **PDINC:** Inconsistent with the available documentation.
-- **PDILL:** The documentation used to code the episode was illegible, resulting in missing codes.
+So **_NAV** will become  **PDNAV**...
 
-#### Secondary Diagnosis
-
-#### Primary Procedure
-
-#### Secondary Procedure
+- **_NAV:** Documentation required for accurate coding was not available at the time of coding.
+- **_INC:** Inconsistent with the available documentation.
+- **_ILL:** The documentation used to code the episode was illegible, resulting in missing codes.
+- **_LEX:** The code is present within the documentation, but written in a manner in which makes it impossible to code.
 
 ### Coding Errors
-
-#### Primary Diagnosis
-
-- **PDINP:** 
-
-#### Secondary Diagnosis
-
-#### Primary Procedure
-
-#### Secondary Procedure
 
 
 ### Misc
