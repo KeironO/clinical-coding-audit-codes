@@ -17,20 +17,49 @@ So **_NAV** will become  **PDNAV**...
 
 ### Documentation Issues
 
+Documentation issues describe issues that are caused wholly or in part by discrepancies within the clinical documentation used to code a given episode. 
+
 - **_NAV:** Documentation required for accurate coding was not available at the time of coding.
+
+> **Example:** The base documentation states that they are awaiting histological/pathological report, and it is later found on the Welsh Clinical Portal and has not been coded.
+
 - **_INC:** Inconsistent with the available documentation.
+
+> **Example:** Documentation has noted that the patient has tested negative for HPV, but the coder has entered a B977 code in place. 
+
 - **_ILL:** The documentation used to code the episode was illegible, resulting in missing codes.
+
+> **Example:** The coder has failed to pick up something from the case documentation due to it being illegible.
+
 - **_LEX:** The code is present within the documentation, but written in a manner in which makes it impossible to code.
 
+> **Example:** The author of the case documentation has used incorrect or informal terminology to describe a clinical outcome.
+
 ### Coding Errors
+
+Coding Errors are self descriptive.
 
 #### Basic Coding Errors
 
 - **_OMI:** Code was not present in the coded episode.
+
+> **Example:** The code is clearly present in the documentation and has not been coded.
+
 - **_IRR:** Code is irrelevant to the coded episode.
+
+> **Example:** The code is completely irrelevant to the coded episode and does not reflect anything withing the source documentation.
+
 - **_3RD:** Incorrect at the third character level.
-- **_4RD:** Incorrect at the fourth character level.
+
+> **Example:** The code is correct up until the third character where an error has been made in the subdivision. For example Hypertension might have accidentally been coded as I11X instead of I10X.
+
+- **_4TH:** Incorrect at the fourth character level.
+
+> **Example:** The code is correct up until the fourth character where an error has been made in the subdivision.
+
 - **_5TH:** Incorrect at the fifth character level.
+
+> **Example:** The code is correct up until the fifth character where an error has been made in the final subdivision.
 
 
 #### External Cause Codes
